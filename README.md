@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Welcome to my page! </br> I'm Eva Villarreal Guzmán, Fullstack developer from <img src="https://cdn-icons.flaticon.com/png/512/5315/premium/5315710.png?token=exp=1637438309~hmac=dfea6953582a777eb2e0af3828a1cd01" width="17"/> <b>Villa María, Argentina</b>. </p>
+<p>Welcome to my page! </br> I'm Eva Villarreal Guzmán, Fullstack developer from <img src="img/arg.png" width="17"/> <b>Villa María, Argentina</b>. </p>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/EvaVillarrealGuzman" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="http://www.linkedin.com/in/m-eva-v-g" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,7 +11,7 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am  a passionate self-taught Full Stack Web Developer and a freelance software engineer with 5+ years of experience. I like to have a pro-active role at work, identifying ideas to improve the optimization and availability of the system.
+I'm a passionate self-taught Full Stack Web Developer and a freelance software engineer with 5+ years of experience. I like to have a pro-active role at work, identifying ideas to improve the optimization and availability of the system.
   
 Results driven, team player, enthusiast, self-taught and always giving my best.
   
@@ -19,7 +19,7 @@ I keep up-to-date through specialized news / blogs and I like to read books that
 
 In my spare time, I like to read, learn about philosophy/history, cycling, play paddle and discover new places.
 
-[⏩ &nbsp; more about me]() 
+[⏩ &nbsp; my blog](https://evavillarrealguzman.github.io/) 
 </details> 
 
 <details>

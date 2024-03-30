@@ -3,7 +3,7 @@
 <p>Welcome to my page! </br> I'm Eva Villarreal Guzmán, Fullstack developer from <img src="img/arg.png" width="17"/> <b>Villa María, Argentina</b>. </p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/EvaVillarrealGuzman" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="http://www.linkedin.com/in/m-eva-v-g" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://github.com/EvaVillarrealGuzman" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="www.linkedin.com/in/evavillarrealguzman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
